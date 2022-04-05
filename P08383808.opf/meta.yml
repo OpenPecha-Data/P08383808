@@ -1,0 +1,31 @@
+id: P08383808
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1804
+  instance_id: http://purl.bdrc.io/resource/IE1KG1804
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དཔྱལ་གྱི་གདུང་རབས་ཟ་ར་ཚགས་དང་གང་གཱའི་ཆུ་རྒྱུན་གཉིས་གཅིག་ཏུ་བྲིས་པ་ཀུན་གསལ་མེ་ལོང་།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - jie da lama pu xi yun pu xi heng he zhi liu he ji ming jing
+  author: http://purl.bdrc.io/resource/P1KG1876
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    33253430aa384dc0ab1d45658e71dce8:
+      title: པོད ༡་དཔྱལ་གྱི་གདུང་རབས་ཟ་ར་ཚགས་དང་གང་གཱའི་ཆུ་རྒྱུན་གཉིས་གཅིག་ཏུ་བྲིས་པ་ཀུན་གསལ་མེ་ལོང
+      volume_number: 1
+      base_file: UT1KG1804_I1KG1879_0000.txt
+      reference: http://purl.bdrc.io/resource/VL1CD4F26B26794BAE
+      image_group: I1KG1879
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG1804
+  - http://purl.bdrc.io/resource/MW1KG1804
+  ocr_software: Namsel
+created_at: '2021-12-24T17:16:54.996403'
+last_modified_at: '2021-12-24T17:16:54.996411'
